@@ -1,7 +1,13 @@
 # 👟 Adidas Sales Analysis – Excel Dashboard Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the Excel File](https://github.com/ahmadyase1234/Adidas-Sales-Analysis/raw/main/Adidas%20Analysis%20project.xlsx)**  
+**📥 [Download the Excel File](https://github.com/ahmadyase1234/Addidas-Sales-Dashboard/raw/main/Adidas%20Analysis%20project.xlsx)**  
+
+---
+
+## 📈 Dashboard Preview
+
+<img src="https://github.com/ahmadyase1234/Addidas-Sales-Dashboard/blob/main/sales%20dashboard.PNG?raw=true" width="1000">
 
 ---
 
@@ -27,12 +33,6 @@ This dashboard addresses the needs of a retail analytics team to:
 - 💵 **Total Sales**: 899,902,125  
 - 📦 **Total Quantity Sold**: 2,478,861  
 - 📈 **Total Operating Profit**: 332,134,761
-
----
-
-## 📈 Dashboard Preview
-
-<img src="https://github.com/ahmadyase1234/Adidas-Sales-Analysis/blob/main/assets/adidas-dashboard.png?raw=true" width="1000">
 
 ---
 
