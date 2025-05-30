@@ -1,13 +1,13 @@
 # 👟 Adidas Sales Analysis – Excel Dashboard Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the Excel File](https://github.com/ahmadyase1234/Addidas-Sales-Dashboard/raw/main/Adidas%20Analysis%20project.xlsx)**  
+**📥 [Download the Excel File](https://github.com/ahmadyase1234/Addidas-Sales-Dashboard/blob/main/Adidas_Analysis_project.xlsx)**  
 
 ---
 
 ## 📈 Dashboard Preview
 
-<img src="https://github.com/ahmadyase1234/Addidas-Sales-Dashboard/blob/main/sales%20dashboard.PNG?raw=true" width="1000">
+<img src="https://github.com/ahmadyase1234/Addidas-Sales-Dashboard/blob/main/IMG-20250530-WA0036.jpg" width="1000">
 
 ---
 
